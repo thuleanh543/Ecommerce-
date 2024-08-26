@@ -19,7 +19,7 @@ const Category = () => {
     <div className="categories">
       <div className="categories-header">
         <h2>Our Top Categories</h2>
-        <a href="#" className="see-all">See All</a> {/* Thêm nút "See All" */}
+        <button className="see-all">See All</button>
       </div>
       <div className="categories-list">
         {categories.map((category, index) => (

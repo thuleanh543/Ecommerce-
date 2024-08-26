@@ -1,8 +1,8 @@
 // App.js
 import React from 'react';
-import Banner from './Components/Banner';
-import Category from './Components/Category';
-import Product from './Components/Product';
+import Banner from './components/Banner';
+import Category from './components/Category';
+import Product from './components/Product';
 
 const App = () => {
   return (
